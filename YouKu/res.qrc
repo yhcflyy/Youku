@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/app.png</file>
+        <file>res/branch_closed.png</file>
+        <file>res/branch_closed-on.png</file>
+        <file>res/branch_open.png</file>
+        <file>res/branch_open-on.png</file>
+        <file>res/checkbox.png</file>
+        <file>res/close.png</file>
+        <file>res/down_arrow.png</file>
+        <file>res/down_arrow_disabled.png</file>
+        <file>res/Hmovetoolbar.png</file>
+        <file>res/Hsepartoolbar.png</file>
+        <file>res/left_arrow.png</file>
+        <file>res/left_arrow_disabled.png</file>
+        <file>res/right_arrow.png</file>
+        <file>res/right_arrow_disabled.png</file>
+        <file>res/sizegrip.png</file>
+        <file>res/style.qss</file>
+        <file>res/stylesheet-branch-end.png</file>
+        <file>res/stylesheet-branch-more.png</file>
+        <file>res/stylesheet-vline.png</file>
+        <file>res/transparent.png</file>
+        <file>res/undock.png</file>
+        <file>res/up_arrow.png</file>
+        <file>res/up_arrow_disabled.png</file>
+        <file>res/Vmovetoolbar.png</file>
+        <file>res/Vsepartoolbar.png</file>
+        <file>res/pause.png</file>
+        <file>res/play.png</file>
+        <file>res/stop.png</file>
+        <file>res/test.png</file>
+    </qresource>
+</RCC>
